@@ -16,4 +16,4 @@
 # 5. Copy the values associated with "__Secure-1PSID," "__Secure-1PSIDTS," and "__Secure-1PSIDCC."
 # 6. Paste these copied values into the `cookie_dict` dictionary in the Python script where indicated.
 
-Copy and paste the code above into your Python script file. Also, make sure to replace "PASTE HERE the value of __Secure-1PSID," "PASTE HERE the value of __Secure-1PSIDTS," and "PASTE HERE the value of __Secure-1PSIDCC" with the actual cookie values you obtain as described in the comments.
+# Copy and paste the code above into your Python script file. Also, make sure to replace "PASTE HERE the value of __Secure-1PSID," "PASTE HERE the value of __Secure-1PSIDTS," and "PASTE HERE the value of __Secure-1PSIDCC" with the actual cookie values you obtain as described in the comments.
